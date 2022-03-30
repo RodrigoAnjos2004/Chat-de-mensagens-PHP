@@ -2,9 +2,9 @@
 
 ## 💻 Technologies used:
  <div style="display: inline_block;"><br>
-  <img align="center" alt="rd-php" height="40" width="90" src="https://logodownload.org/wp-content/uploads/2016/10/php-logo.png">
-  <img align="center" alt="rd-Js" height="40" width="80" src="https://marcas-logos.net/wp-content/uploads/2020/11/JavaScript-logo.png">
-  <img align="center" alt="rd-mysql" height="40" width="80" src="https://marcas-logos.net/wp-content/uploads/2020/11/MySQL-logo.png">
+  <img align="center" alt="rd-php" height="40" width="120" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img align="center" alt="rd-Js" height="40" width=120" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" alt="rd-mysql" height="40" width="120" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </a>
 
 
