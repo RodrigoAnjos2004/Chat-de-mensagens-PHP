@@ -8,8 +8,6 @@
 </a>
 
 
-## 💹 blockchain is a technology that enables cryptographic transactions
-
 ![imagem](https://i.pinimg.com/originals/14/af/e8/14afe8ca9595e5160b0c02e18085077f.png)
 
 * o que ainda tenho a adicionar *
